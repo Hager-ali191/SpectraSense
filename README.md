@@ -370,10 +370,20 @@ Move beyond category recognition toward full object identity — not just "this 
 ## Team
 
 ### AI Team
-> *[Add AI team member names, roles, and GitHub / LinkedIn profiles here]*
+
+| Name | Role | GitHub | LinkedIn |
+|------|------|--------|----------|
+| [Mohammed Abdelnaser](https://github.com/abdelnasser0) | Team Lead | [GitHub](https://github.com/username) | [LinkedIn](https://linkedin.com/in/username) |
+| Mohammed Gamal | Member | [GitHub](https://github.com/MohamadGemy04) | [LinkedIn](https://linkedin.com/in/username) |
 
 ### IoT Team
-> *[Add IoT team member names, roles, and GitHub / LinkedIn profiles here]*
+
+| Name | Role | GitHub | LinkedIn |
+|------|------|--------|----------|
+| [Malak](https://github.com/) | Team Lead | [GitHub]() | [LinkedIn]() |
+| [Manar Ashraf](https://github.com/) | Member | [GitHub]([https://github.com/username](https://github.com/manarelgohary0)) | [LinkedIn]() |
+| Jana Kassem | Member | [GitHub]((https://github.com/janaosmaneng-cyber)) | [LinkedIn]() |
+| Habiba Elsayed | Member | [GitHub](https://github.com/habibaelsayed28) | [LinkedIn]() |
 
 ### Supervisors
 > *[Add supervisor names and titles here]*
