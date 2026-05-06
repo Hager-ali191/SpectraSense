@@ -373,15 +373,16 @@ Move beyond category recognition toward full object identity — not just "this 
 
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Mohammed Abdelnaser](https://github.com/abdelnasser0) | Team Lead | [GitHub](https://github.com/username) | [LinkedIn](https://linkedin.com/in/username) |
-| Mohammed Gamal | Member | [GitHub](https://github.com/MohamadGemy04) | [LinkedIn](https://linkedin.com/in/username) |
+| [Mohammed Abdelnaser]| Team Lead | [GitHub](https://github.com/abdelnasser0)  | [LinkedIn] |
+| Mohammed Gamal | Member | [GitHub](https://github.com/MohamadGemy04) | [LinkedIn] |
+| [Hager Ali]| Member | [GitHub](https://github.com/hager-ali191)  | [LinkedIn](www.linkedin.com/in/hager-ali-460316365) |
 
 ### IoT Team
 
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Malak](https://github.com/) | Team Lead | [GitHub]() | [LinkedIn]() |
-| [Manar Ashraf](https://github.com/) | Member | [GitHub]([https://github.com/username](https://github.com/manarelgohary0)) | [LinkedIn]() |
+| [Malak] | Team Lead | [GitHub]() | [LinkedIn]() |
+| [Manar Ashraf]| Member | [GitHub]([https://github.com/username](https://github.com/manarelgohary0)) | [LinkedIn]() |
 | Jana Kassem | Member | [GitHub]((https://github.com/janaosmaneng-cyber)) | [LinkedIn]() |
 | Habiba Elsayed | Member | [GitHub](https://github.com/habibaelsayed28) | [LinkedIn]() |
 
@@ -397,8 +398,8 @@ Move beyond category recognition toward full object identity — not just "this 
 
 | Event | Details |
 |-------|---------|
-| 🤖 **RoboTech Fair** | *[Add date and location]* |
-| 🏆 **AZEX Competition** | *[Add date and result]* |
+| 🤖 **RoboTech Fair** | *[26 / 4 , 27 / 4]* |
+| 🏆 **AZEX Competition** | *[4 / 5]* |
 
 ---
 
