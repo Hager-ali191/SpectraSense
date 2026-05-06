@@ -1,4 +1,4 @@
-# SpectraSense — AI Component
+# SpectraSense 
 
 > **Real-time object detection and classification system** that identifies personal belongings on a conveyor belt and communicates the object type to the IoT system for automated sorting into the correct bin.
 
